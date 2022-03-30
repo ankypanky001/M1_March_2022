@@ -1,1 +1,2 @@
 ## SNAKE AND LADDER
+- Info
